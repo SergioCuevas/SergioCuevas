@@ -6,7 +6,7 @@
 <ul>
 <li>🔭 I’m currently working on something cool :D.</li>
 <li>🌱 Learning about <strong>Rust</strong>, <strong>GO</strong>, and a bit of <strong>Web Security</strong>.</li>
-<li>💬 How to reach me <strong>sergioramoncuevas@gmail.com</strong>.</li>
+<li>💬 How to reach me.... <strong>sergioramoncuevas@gmail.com</strong>.</li>
 </ul>
 <h2>🚀 Tools I Use</h2>
 <h3 align="left">Languages and Tools:</h3>
